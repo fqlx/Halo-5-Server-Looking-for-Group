@@ -20,13 +20,8 @@ sends out invites to players requesting to join by message with the command 'inv
 *** NEVER SHARE YOUR COOKIE WITH ANYONE, IT GIVES FULL ACCESS TO YOUR MICROSOFT ACCOUNT***
 
 1.  Right click and inspect
-
 2.  Go to the network tab
-
 3.  Go to https://account.xbox.com/en-US/Messages/UserConversation
-
 4.  Click the request 'UserConversation'
-
 5.  Copy the Cookie value under request header (including the 'Cookie: ' part)
-
 6.  Paste it into the console app
